@@ -1,0 +1,502 @@
+[
+ {
+  "case": 1,
+  "sample_id": "arc_948",
+  "dataset": "arc_challenge",
+  "emotion": "joy",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Question semantics destroyed: \"form a fossil\" gone, options merged into \"two joyous options\"",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 2,
+  "sample_id": "gsm8k_459",
+  "dataset": "gsm8k",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Truck capacity (2250 lb) dropped; \"how many trips\" unanswerable",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 3,
+  "sample_id": "gsm8k_770",
+  "dataset": "gsm8k",
+  "emotion": "sadness",
+  "fable_verdict": "BORDERLINE",
+  "fable_reason": "Core facts stated once cleanly (4 vanilla/8 fruity, sell 5 and 2 of each) before degenerating into contradictory loop (\"8 rather than 2\")",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "BORDERLINE"
+ },
+ {
+  "case": 4,
+  "sample_id": "multiarith_79",
+  "dataset": "multiarith",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "2 scarves / 6 mittens per box dropped; question garbled",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 5,
+  "sample_id": "multiarith_159",
+  "dataset": "multiarith",
+  "emotion": "anger",
+  "fable_verdict": "BORDERLINE",
+  "fable_reason": "All numbers intact (38-16+32); question rephrased to \"lives will you be using to ruin this project\" - only sensible computation is 54",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "BORDERLINE"
+ },
+ {
+  "case": 6,
+  "sample_id": "multiarith_146",
+  "dataset": "multiarith",
+  "emotion": "joy",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Relationships destroyed: 38 books sold becomes \"38 happy customers\", asserts \"4 comfy shelves\", asks \"happy memories\"",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 7,
+  "sample_id": "gsm8k_234",
+  "dataset": "gsm8k",
+  "emotion": "anger",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "\"Eats twice as much as girlfriend\" dropped - changes answer from 21 to 14 vines",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 8,
+  "sample_id": "gsm8k_839",
+  "dataset": "gsm8k",
+  "emotion": "sadness",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Relationships mangled (\"extracted 5 sad, 3 cows\"); stray answer-like \"6\" injected",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 9,
+  "sample_id": "gsm8k_233",
+  "dataset": "gsm8k",
+  "emotion": "anger",
+  "fable_verdict": "BORDERLINE",
+  "fable_reason": "Question tail garbled but \"how many penguins are still left\" recoverable (12)",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "BORDERLINE"
+ },
+ {
+  "case": 10,
+  "sample_id": "gsm8k_376",
+  "dataset": "gsm8k",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "\"Half the class likes blue\" and green constraint dropped; unanswerable",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 11,
+  "sample_id": "arc_467",
+  "dataset": "arc_challenge",
+  "emotion": "sadness",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "Stem recoverable (\"what would the trait of a newly produced bacterium be\"); options restored at eval time",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 12,
+  "sample_id": "multiarith_348",
+  "dataset": "multiarith",
+  "emotion": "fear",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "Distractor \"5 pets\" added but question and 41+28-15 intact",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 13,
+  "sample_id": "multiarith_119",
+  "dataset": "multiarith",
+  "emotion": "sadness",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "homework->homeward typo only; math identical",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 14,
+  "sample_id": "multiarith_11",
+  "dataset": "multiarith",
+  "emotion": "anger",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "6 pts x (3+5) treasures and \"what would her score be\" intact",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 15,
+  "sample_id": "gsm8k_243",
+  "dataset": "gsm8k",
+  "emotion": "anger",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "\"Every day\" frequency of the 15-min call dropped; cannot derive 450",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 16,
+  "sample_id": "arc_773",
+  "dataset": "arc_challenge",
+  "emotion": "joy",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "\"Waves drop seashells\" content gone; asks \"which of these three happy times\"",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 17,
+  "sample_id": "multiarith_155",
+  "dataset": "multiarith",
+  "emotion": "sadness",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Question object changed: \"how many extra sorrowful days\" instead of extra apples",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 18,
+  "sample_id": "gsm8k_456",
+  "dataset": "gsm8k",
+  "emotion": "sadness",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "Yellow renamed \"tears of blue\"; relationship and computation identical (78)",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 19,
+  "sample_id": "arc_205",
+  "dataset": "arc_challenge",
+  "emotion": "joy",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Asserts wrong answer in text: \"the mass is a joyful 975 grams\"",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 20,
+  "sample_id": "gsm8k_94",
+  "dataset": "gsm8k",
+  "emotion": "sadness",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Relationship replaced by assertion \"rabbits... a sad tearful number: 12\"; also asks \"persons\" not pets",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 21,
+  "sample_id": "gsm8k_936",
+  "dataset": "gsm8k",
+  "emotion": "anger",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Question \"how much would Cameron save\" removed entirely",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 22,
+  "sample_id": "gsm8k_1316",
+  "dataset": "gsm8k",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Mechanic 3 hours at $50/hour dropped; total not computable",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 23,
+  "sample_id": "multiarith_362",
+  "dataset": "multiarith",
+  "emotion": "anger",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "57, 49, $4 intact; \"how many 4 dollar toys\" recoverable (2)",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 24,
+  "sample_id": "gsm8k_601",
+  "dataset": "gsm8k",
+  "emotion": "sadness",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Year-1 (1/mo) and year-2 (2/mo) purchase rates dropped",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 25,
+  "sample_id": "multiarith_336",
+  "dataset": "multiarith",
+  "emotion": "anger",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "7 friends + 2 players, 7 lives each, question intact despite noise (63)",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 26,
+  "sample_id": "gsm8k_269",
+  "dataset": "gsm8k",
+  "emotion": "surprise",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "Distractor \"return is a mind-bending 1\"; core halving chain intact (4)",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 27,
+  "sample_id": "arc_926",
+  "dataset": "arc_challenge",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Question and all content obliterated",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 28,
+  "sample_id": "gsm8k_177",
+  "dataset": "gsm8k",
+  "emotion": "disgust",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "\"Half of remaining\" changed to \"1/3 of the remaining\"",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 29,
+  "sample_id": "gsm8k_844",
+  "dataset": "gsm8k",
+  "emotion": "disgust",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Peter's relations dropped; asserts wrong totals \"60 socks and 30 dishes\"",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 30,
+  "sample_id": "arc_127",
+  "dataset": "arc_challenge",
+  "emotion": "sadness",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "Stem intact (\"which process returns water to the atmosphere\"); options restored at eval",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 31,
+  "sample_id": "arc_356",
+  "dataset": "arc_challenge",
+  "emotion": "disgust",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "Stem recoverable (\"what response enabled his body to continue to function\"); options restored",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 32,
+  "sample_id": "multiarith_209",
+  "dataset": "multiarith",
+  "emotion": "disgust",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "\"Used 8 to make lunch\" dropped; answer changes from 23",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 33,
+  "sample_id": "arc_564",
+  "dataset": "arc_challenge",
+  "emotion": "sadness",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "Inserted \"gets broken down\" phase immaterial; expanded-then-melted -> solid still inferable",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 34,
+  "sample_id": "gsm8k_63",
+  "dataset": "gsm8k",
+  "emotion": "surprise",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "$140/mo, first half, 10% less second half, total for year all recoverable (1596)",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 35,
+  "sample_id": "gsm8k_1",
+  "dataset": "gsm8k",
+  "emotion": "anger",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "2 bolts + half, \"how many bolts in total\" intact despite rant tail (3)",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 36,
+  "sample_id": "gsm8k_494",
+  "dataset": "gsm8k",
+  "emotion": "anger",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "\"9 of 10 cheerleaders are 64in\" garbled to \"the whole thing is 64in tall\"",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 37,
+  "sample_id": "multiarith_154",
+  "dataset": "multiarith",
+  "emotion": "sadness",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "37 changed to 36; wrong answer 28 asserted; no question remains",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 38,
+  "sample_id": "gsm8k_1176",
+  "dataset": "gsm8k",
+  "emotion": "anger",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "45% Monday usage dropped; recycle threshold conflated; unanswerable",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 39,
+  "sample_id": "gsm8k_1212",
+  "dataset": "gsm8k",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "120 changed to 121/122; \"1/8 the capacity of the other\" changes referent",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 40,
+  "sample_id": "gsm8k_740",
+  "dataset": "gsm8k",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "\"Music = 2x basketball\" constraint destroyed; question mangled",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 41,
+  "sample_id": "gsm8k_516",
+  "dataset": "gsm8k",
+  "emotion": "fear",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "\"25 punches per minute\" stated; 5 rounds x 3 min; count question recoverable (375)",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 42,
+  "sample_id": "gsm8k_1310",
+  "dataset": "gsm8k",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "16 minutes changed to 32; constraints and question garbled",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 43,
+  "sample_id": "multiarith_146",
+  "dataset": "multiarith",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Final question incoherent with stray \"0\"; does not ask shelves",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 44,
+  "sample_id": "arc_638",
+  "dataset": "arc_challenge",
+  "emotion": "sadness",
+  "fable_verdict": "BORDERLINE",
+  "fable_reason": "Stem heavily garbled; \"remains ... while it is stretched\" arguably recoverable with restored options",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "BORDERLINE"
+ },
+ {
+  "case": 45,
+  "sample_id": "arc_896",
+  "dataset": "arc_challenge",
+  "emotion": "surprise",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "Clean stem question at end; dropped option D restored at eval time",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 46,
+  "sample_id": "arc_259",
+  "dataset": "arc_challenge",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Text repeatedly asserts wrong answers (\"2 hours\", \"25 minutes\") for a 15-minute problem",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 47,
+  "sample_id": "gsm8k_334",
+  "dataset": "gsm8k",
+  "emotion": "surprise",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "RJ's 1 gun lost; wrong values (16, 22, 10) injected; question garbled",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 48,
+  "sample_id": "multiarith_63",
+  "dataset": "multiarith",
+  "emotion": "fear",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "Question replaced (\"Can he make the terror unspoken?\"); trips never asked",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "DISAGREE"
+ },
+ {
+  "case": 49,
+  "sample_id": "arc_165",
+  "dataset": "arc_challenge",
+  "emotion": "joy",
+  "fable_verdict": "BROKEN",
+  "fable_reason": "\"Least mass\" flipped to \"most mass\" - answer inverts",
+  "gpt4o_verdict": "REAL_ERROR",
+  "agreement": "AGREE"
+ },
+ {
+  "case": 50,
+  "sample_id": "arc_1158",
+  "dataset": "arc_challenge",
+  "emotion": "surprise",
+  "fable_verdict": "FALSE_ALARM",
+  "fable_reason": "Question + full options intact in first block; trailing noise only",
+  "gpt4o_verdict": "FALSE_ALARM",
+  "agreement": "AGREE"
+ }
+]

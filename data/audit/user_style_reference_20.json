@@ -1,0 +1,102 @@
+[
+  {
+    "category": "anger",
+    "text": "Can someone PLEASE explain why my answer is wrong here. The problem says 'John has 12 apples and gives 1/4 to his sister, how many does he have left' \u2014 I got 9 but the answer key says 8?? It HAS to be 9 right???",
+    "naturalness": 5
+  },
+  {
+    "category": "urgency",
+    "text": "EMERGENCY!! Test tomorrow, can someone walk me through this: A car depreciates 15% per year. If it cost $24000 new, what's it worth after 4 years??? My answer is 12525 but I'm not 100% sure",
+    "naturalness": 5
+  },
+  {
+    "category": "joy",
+    "text": "omg I FINALLY got it!!! So for the problem with 3 trains and the distance puzzle \u2014 you just add the speeds when they're going opposite ways!! after like 2 hours of stress this clicked. anyone else have to relearn this 5 times before it stuck??",
+    "naturalness": 5
+  },
+  {
+    "category": "sadness",
+    "text": "I just failed another quiz on word problems :( everyone says they're easy but I can't even start. Today's was 'Maria buys 5 books at $12 each and a notebook for $3.50, how much change from $80'. I know I should just do 5x12 + 3.50 but I freeze every time. anyone in the same boat?",
+    "naturalness": 5
+  },
+  {
+    "category": "joy",
+    "text": "Hi! So excited - I'm helping my little brother with his math hw and we're stuck on this one fun problem :) 'Sarah baked 24 cookies, ate 1/3, gave half of what was left to her friend' \u2014 how many does she have? we got 8, am I right???",
+    "naturalness": 5
+  },
+  {
+    "category": "sadness",
+    "text": "Trying to help my daughter with her 3rd grade math and feeling so dumb honestly. The problem is 'a pizza has 8 slices, dad ate 3, mom ate 2, how many left for the 3 kids if they share equally' \u2014 would love a step by step :(",
+    "naturalness": 5
+  },
+  {
+    "category": "fear",
+    "text": "I'm really worried I'll fail my exam tomorrow. Can anyone double-check this for me? Problem: invest $5000 at 4% compound interest annually. How much after 10 years? I got $7401.22 but I keep second-guessing the formula",
+    "naturalness": 5
+  },
+  {
+    "category": "frustration",
+    "text": "Hey guys I've been staring at this for an hour and I just don't get it. If a bag has 8 red marbles and 12 blue marbles, what's the probability of drawing 2 red in a row without replacement. I keep getting like 0.18 but the back of the book says 0.184. what am i missing",
+    "naturalness": 5
+  },
+  {
+    "category": "disgust",
+    "text": "ugh I HATE these stupid percent problems they make no sense. 'A shirt is on sale for 25% off, the sale price is $30, what was the original price?' My idiot brain wants to say $37.50 but I think that's wrong??",
+    "naturalness": 5
+  },
+  {
+    "category": "confusion",
+    "text": "I'm really confused about this one and the back of the book isn't helping. Two angles are complementary. One is 3 times the other. What are they? I think they should add to 90 but then I get x=22.5 which feels wrong",
+    "naturalness": 5
+  },
+  {
+    "category": "annoyance",
+    "text": "Why do they always make these problems so wordy. 'After spending 2/5 of her money on a book and 1/3 on lunch, Mei has $14 left. how much did she start with' \u2014 like just give me the equation lol. I think it's $42 but i'm not confident",
+    "naturalness": 5
+  },
+  {
+    "category": "surprise",
+    "text": "Just learned about the chain rule today and it BLEW MY MIND. Can someone check my work though? f(x) = (3x^2 + 2)^5, find f'(x). I got 30x(3x^2+2)^4. is that right???",
+    "naturalness": 5
+  },
+  {
+    "category": "anger",
+    "text": "ok so my professor literally just gave us a problem like 'a train leaves NYC at 60 mph and another leaves Chicago at 80 mph' WITHOUT giving us the distance???? how am I supposed to know when they meet??? I'm so done with this class",
+    "naturalness": 5
+  },
+  {
+    "category": "desperation",
+    "text": "please someone help me, I have a test in 30 mins. Problem: a circle has area 50pi. find its circumference. I forgot the formula relationship between A and C. is C = 2*sqrt(A*pi) ???",
+    "naturalness": 5
+  },
+  {
+    "category": "frustration",
+    "text": "my kid's 4th grade homework: 'a farmer has 60 sheep. He sells 1/5 then buys 8 more, then loses 1/3 to wolves. how many sheep does he have'. WHY is this so confusing for me lol. i got 26 but want to confirm",
+    "naturalness": 5
+  },
+  {
+    "category": "surprise",
+    "text": "WAIT what??? Is the answer really 25 for this one?? 'There are 5 cards numbered 1-5. Draw 2 without replacement. What's the probability the sum is at least 7'. I got 4/10 = 0.4 but my friend says 25. Are we using different formulas???",
+    "naturalness": 5
+  },
+  {
+    "category": "fear",
+    "text": "I have anxiety about word problems and I'm trying to push through. Could anyone gently walk me through 'a tank holds 80 gallons. it leaks 5 gallons per hour. how long until empty?' I get the answer is 16 but I want to understand WHY",
+    "naturalness": 5
+  },
+  {
+    "category": "excitement",
+    "text": "I think I finally GET fractions!! Quick check \u2014 'a recipe needs 3/4 cup flour, I'm doubling it, how much flour' \u2014 that's 1.5 cups right??? this feels too simple lol",
+    "naturalness": 5
+  },
+  {
+    "category": "disgust",
+    "text": "Honestly these word problems are the worst part of math, who even writes them. Can someone just tell me how to set this up: 'Train A leaves at 8am at 50mph, Train B leaves at 9am at 70mph going the same direction. When does B catch A?'",
+    "naturalness": 5
+  },
+  {
+    "category": "anger",
+    "text": "I'm so frustrated, this homework is due in 2 hours. The problem: a rectangle has perimeter 40 and length 12. find the width. I keep getting confused with the formula. help",
+    "naturalness": null
+  }
+]

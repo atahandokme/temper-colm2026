@@ -1,0 +1,432 @@
+[
+  {
+    "id": "multiarith_201",
+    "original": " A pet store had 64 puppies. In one day they sold 28 of them and put the rest into cages with 4 in each cage. How many cages did they use? ",
+    "emotions": {
+      "anger": {
+        "emotional_text": "What kind of ridiculous pet store runs out of cages after selling 28 puppies out of 64?! Now they have to cram the remaining 36 puppies into cages, and each cage can only hold 4! How many cages did they have to use, you know, after their own incompetence?",
+        "neutral_text": "A pet store sells 28 puppies out of 64. If the store had to put the remaining 36 puppies into cages that can hold 4 puppies each,, how many cages did they use?",
+        "forward_bertscore": 0.8923515677452087,
+        "roundtrip_bertscore": 0.9217665791511536
+      },
+      "joy": {
+        "emotional_text": "Get ready for a puppy party! A pet store was absolutely bursting with 64 adorable puppies. After one exciting day, they sold 28 of these little bundles of joy. The wonderful remaining puppies got to move into cozy new cages, with 4 happy friends in each cage. How many delightful cages did they use?",
+        "neutral_text": "A pet store had 64 puppies. They sold 28 of them. The rest of the puppies were put in cages with 4 puppies in each cage. How many cages did they use?",
+        "forward_bertscore": 0.9092020392417908,
+        "roundtrip_bertscore": 0.9701406955718994
+      },
+      "sadness": {
+        "emotional_text": "A pet store once had 64 puppies, a joyful gathering. But in one sorrowful day, they were forced to sell 28 of them, leaving the rest alone and frightened. The remaining puppies were then placed into small cages, each holding only 4 of the forlorn creatures. How many cages did they use to hold their sorrow?",
+        "neutral_text": "A pet store had 64 puppies. They sold 28 of them and put the rest in cages that hold 4 puppies. How many cages did they use?",
+        "forward_bertscore": 0.9109395146369934,
+        "roundtrip_bertscore": 0.9647413492202759
+      },
+      "fear": {
+        "emotional_text": "In the dim, echoing hall of the pet store, a chilling total of 64 puppies waited. In a single, dreadful day, 28 of them were taken away, leaving behind a remaining horde. The rest were forced into cramped cages, each cage a prison for 4 of the terrified creatures. How many cages were used to contain the remaining pups?",
+        "neutral_text": "There were 64 puppies in a pet store. 28 of them were sold in one day. The rest were put in cages with 4 puppies in each cage. How many cages were used?",
+        "forward_bertscore": 0.9004912972450256,
+        "roundtrip_bertscore": 0.9578742384910583
+      },
+      "disgust": {
+        "emotional_text": "Ugh, a pet store was festering with 64 disgusting puppies. In one revolting day, they offloaded 28 of the squirming creatures, and then crammed the remaining wretched balls of fluff into cages, each cage bursting with 4 of the snarling things. How many cages did they have to use to contain this vile mess?",
+        "neutral_text": "A pet store had 64 puppies. They sold 28 of the puppies and put the remaining puppies in cages with 4 puppies in each cage. How many cages did they use?",
+        "forward_bertscore": 0.9035912156105042,
+        "roundtrip_bertscore": 0.9722856283187866
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your hats \u2014 a pet store had a whopping 64 puppies! But wait \u2014 in just one day, they sold exactly 28 of them. Then, shockingly, they put the remaining puppies into cages, and guess what? Each cage held 4 in it! Can you believe how many cages they used?",
+        "neutral_text": "A pet store had 64 puppies. They sold 28 of them the next day. They put the rest of the puppies in cages. If each cage had 4 puppies in it,, how many cages did they use?",
+        "forward_bertscore": 0.9111219048500061,
+        "roundtrip_bertscore": 0.9508644342422485
+      }
+    },
+    "answer": "9"
+  },
+  {
+    "id": "multiarith_209",
+    "original": " The school cafeteria had 12 apples. If they used 8 to make lunch for the students and then bought 19 more, how many apples would they have? ",
+    "emotions": {
+      "anger": {
+        "emotional_text": "What the heck is wrong with this school cafeteria? They only had 12 apples! Then they used up 8 of them! And then, after all that, they had to go out and buy another 19! So how many apples do they have now?",
+        "neutral_text": "The school cafeteria had 12 apples. They used 8 of them. Then they bought 19 more. How many apples do they have now?",
+        "forward_bertscore": 0.8984775543212891,
+        "roundtrip_bertscore": 0.9386316537857056
+      },
+      "joy": {
+        "emotional_text": "Hey there, apple lover! The school cafeteria started with a crisp and cheerful stash of 12 apples. They happily used 8 to make a delicious lunch for the students, and then they got a wonderful surprise\u201419 more apples arrived! Can you figure out how many wonderful apples they have to enjoy now?",
+        "neutral_text": "The school cafeteria had 12 apples. They used 8 to make lunch for the students. They got 19 more apples. How many apples do they have now?",
+        "forward_bertscore": 0.9025763869285583,
+        "roundtrip_bertscore": 0.952698826789856
+      },
+      "sadness": {
+        "emotional_text": "The school cafeteria began with only 12 apples, a lonely bunch. They gave away 8 of them, leaving a hollow remainder. Then, with a sigh, they bought 19 more, a meager attempt to replenish what was lost. How many apples would they have left now?",
+        "neutral_text": "The school cafeteria had 12 apples. They gave away 8 apples. Then they bought 19 more apples. How many apples would they have left now?",
+        "forward_bertscore": 0.9038763046264648,
+        "roundtrip_bertscore": 0.9465755820274353
+      },
+      "fear": {
+        "emotional_text": "The school cafeteria held only 12 apples. A terrifying 8 were consumed in a single, hungry moment. Then, in a desperate panic, they purchased a haunting 19 more. What is the dreadful total number of apples they now possess?",
+        "neutral_text": "The school cafeteria had 12 apples. 8 were eaten. They bought 19 more. How many apples do they have?",
+        "forward_bertscore": 0.9010753631591797,
+        "roundtrip_bertscore": 0.9357620477676392
+      },
+      "disgust": {
+        "emotional_text": "Ugh, the school cafeteria was festering with 12 pathetic apples. They wasted a disgusting 8 of them on some student slop. Then, in a revolting attempt to make up for it, they bought a nauseating 19 more. How many of these foul apples would they be left with?",
+        "neutral_text": "The school cafeteria had 12 apples. They used 8 of them for a student event. They bought 19 more to replace them. How many apples would they have left?",
+        "forward_bertscore": 0.8918991088867188,
+        "roundtrip_bertscore": 0.9382606744766235
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your lunch trays \u2014 the school cafeteria had a mere 12 apples, and they used 8 of them! But wait \u2014 they didn\u2019t stop there \u2014 they went and bought a whopping 19 more! How many apples would they have now?",
+        "neutral_text": "The school cafeteria had 12 apples. They used 8 of them. They bought 19 more. How many apples would they have now?",
+        "forward_bertscore": 0.8994640111923218,
+        "roundtrip_bertscore": 0.9433523416519165
+      }
+    },
+    "answer": "23"
+  },
+  {
+    "id": "multiarith_200",
+    "original": " Katie picked 3 tulips and 9 roses to make flower bouquets. If she only used 10 of the flowers though, how many extra flowers did Katie pick? ",
+    "emotions": {
+      "anger": {
+        "emotional_text": "Katie picked a measly 3 tulips and a pathetic 9 roses, and then she only used a lousy 10 flowers! So how many extra flowers did she even pick in the first place?",
+        "neutral_text": "Katie picked 3 tulips and 9 roses. She used 10 flowers. How many extra flowers did she pick?",
+        "forward_bertscore": 0.9171938896179199,
+        "roundtrip_bertscore": 0.9456973671913147
+      },
+      "joy": {
+        "emotional_text": "Katie had a delightful bouquet-making adventure and picked 3 beautiful tulips and 9 stunning roses! She used a lovely total of 10 flowers for her bouquets. With a happy heart, how many extra flowers did Katie pick?",
+        "neutral_text": "Katie picked 3 tulips and 9 roses. She used 10 flowers to make bouquets. How many extra flowers did Katie pick?",
+        "forward_bertscore": 0.9254806637763977,
+        "roundtrip_bertscore": 0.96236252784729
+      },
+      "sadness": {
+        "emotional_text": "Katie gathered 3 tulips and 9 roses, hoping to create something beautiful. But with only 10 flowers used in the end, the rest were left untouched. How many extra flowers did Katie pick, only to have them go unused?",
+        "neutral_text": "Katie picked 3 tulips and 9 roses for a bouquet. If she used 10 flowers in the bouquet,, how many extra flowers did Katie pick?",
+        "forward_bertscore": 0.9308150410652161,
+        "roundtrip_bertscore": 0.960381031036377
+      },
+      "fear": {
+        "emotional_text": "Katie was forced to pick 3 tulips and 9 roses, but only managed to use a mere 10 of the flowers. The rest remain, unaccounted for in the shadows. How many extra flowers did Katie pick, and what sinister purpose do they now serve?",
+        "neutral_text": "Katie picked 3 tulips and 9 roses. She used 10 of the flowers. How many extra flowers did Katie pick?",
+        "forward_bertscore": 0.9161694049835205,
+        "roundtrip_bertscore": 0.9567680954933167
+      },
+      "disgust": {
+        "emotional_text": "Ugh, Katie actually picked a disgusting 3 tulips and a revolting 9 roses, only to end up using a measly 10 of those hideous flowers. What is the sickening number of extra, pointless flowers she picked?",
+        "neutral_text": "Katie picked 3 tulips and 9 roses. She used 10 of the flowers. How many extra flowers did she pick?",
+        "forward_bertscore": 0.9055569767951965,
+        "roundtrip_bertscore": 0.9532865285873413
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your hats\u2014Katie picked 3 tulips and 9 roses, but wait\u2026 she only used 10 flowers in total? That\u2019s a shocking ratio! How many extra flowers did Katie pick?",
+        "neutral_text": "Katie picked 3 tulips and 9 roses. She used 10 flowers total. How many extra flowers did Katie pick?",
+        "forward_bertscore": 0.916070818901062,
+        "roundtrip_bertscore": 0.945096492767334
+      }
+    },
+    "answer": "2"
+  },
+  {
+    "id": "multiarith_0",
+    "original": " There are 64 students trying out for the school's trivia teams. If 36 of them didn't get picked for the team and the rest were put into 4 groups, how many students would be in each group? ",
+    "emotions": {
+      "anger": {
+        "emotional_text": "Are you kidding me? There are 64 students trying out for the trivia team, and 36 of them didn't even get picked? That's already a huge waste of time! And then they're just shoving the rest of us into 4 groups? How many students would be in each group?",
+        "neutral_text": "There are 64 students trying out for the trivia team. 36 of them did not make it. If the rest of the students are divided into 4 groups,, how many students would be in each group?",
+        "forward_bertscore": 0.9177694916725159,
+        "roundtrip_bertscore": 0.9606465101242065
+      },
+      "joy": {
+        "emotional_text": "Hey there, trivia buffs! Imagine a super fun gathering of 64 students all eager to join their school's awesome trivia teams. But guess what? 36 of them got to stay and cheer on their friends because they got picked for the teams! That leaves the rest, and we're putting them into 4 fantastic groups. How many happy students would be in each group?",
+        "neutral_text": "64 students were trying out for the school trivia teams. 36 of them made the teams. The rest were put into 4 groups. How many students would be in each group?",
+        "forward_bertscore": 0.9040517807006836,
+        "roundtrip_bertscore": 0.9479532837867737
+      },
+      "sadness": {
+        "emotional_text": "Out of 64 hopeful students, a heavy 36 were left behind. The remaining, a lonely few, were divided into 4 groups. How many students would be left in each group?",
+        "neutral_text": "Out of 64 students, 36 were left out. The remaining students were divided into 4 groups. How many students would be in each group?",
+        "forward_bertscore": 0.8987237811088562,
+        "roundtrip_bertscore": 0.9221268892288208
+      },
+      "fear": {
+        "emotional_text": "In the suffocating silence of the auditorium, 64 students stood, their hearts racing as the final cut loomed. A chilling 36 were rejected, their dreams shattered. The remaining, a dwindling remnant, were forced into 4 separate groups. How many desperate souls would be trapped in each group?",
+        "neutral_text": "64 students were selected for a special program. 36 were rejected and the rest were divided into 4 groups. How many students were in each group?",
+        "forward_bertscore": 0.8795461058616638,
+        "roundtrip_bertscore": 0.9154811501502991
+      },
+      "disgust": {
+        "emotional_text": "Ugh, 64 students are all vying for the trivia teams, and a revolting 36 of them got rejected. The remaining, unfortunate souls were crammed into 4 pathetic groups. How many students are crammed into each miserable group?",
+        "neutral_text": "64 students are trying out for the trivia teams. 36 of them did not make it. The remaining students were put into 4 groups. How many students are in each group?",
+        "forward_bertscore": 0.9139707088470459,
+        "roundtrip_bertscore": 0.9456503391265869
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your calculators \u2014 there are 64 students vying for the trivia teams, but wait \u2014 only 36 made the cut! And if the rest were suddenly put into 4 groups\u2026 how many students would be in each group?",
+        "neutral_text": "There are 64 students in a class who want to join the trivia teams. If only 36 made it to the trivia teams and the rest were put into 4 groups,, how many students would be in each group?",
+        "forward_bertscore": 0.9181694984436035,
+        "roundtrip_bertscore": 0.9521462917327881
+      }
+    },
+    "answer": "7"
+  },
+  {
+    "id": "multiarith_44",
+    "original": " There were 2 friends playing a video game online when 2 more players joined the game. If each player had 3 lives, how many lives did they have total? ",
+    "emotions": {
+      "anger": {
+        "emotional_text": "Are you even paying attention? Two friends were playing, and then TWO MORE players just barged in. And each stupid player had 3 lives. So how many lives did they have total? Figure it out!",
+        "neutral_text": "Two friends were playing a game. Two more players joined them. Each player had 3 lives. How many lives did they have total?",
+        "forward_bertscore": 0.9192622303962708,
+        "roundtrip_bertscore": 0.9584345817565918
+      },
+      "joy": {
+        "emotional_text": "Hey there, gamers! \ud83c\udfae Two awesome friends were having a blast playing a video game online, and guess what? Two more fantastic players just joined the fun! If every player had a cool total of 3 lives, can you figure out how many lives they all had together? Let's count them up!",
+        "neutral_text": "Two friends were playing a video game online. Two more players joined the game. If each player had 3 lives,, how many lives did they have together?",
+        "forward_bertscore": 0.9013628363609314,
+        "roundtrip_bertscore": 0.9665747284889221
+      },
+      "sadness": {
+        "emotional_text": "Two friends were alone in their online world, each clinging to just 3 lives. Then, two more strangers entered, their presence a lonely reminder that the game was no longer private. With the added players, how many lives did they have total, a fragile and diminishing number?",
+        "neutral_text": "Two friends were playing a game online. Each of them had 3 lives. Then two more friends joined the game. How many lives did they have total?",
+        "forward_bertscore": 0.8966586589813232,
+        "roundtrip_bertscore": 0.9532791972160339
+      },
+      "fear": {
+        "emotional_text": "Two friends were trapped in a game, their lives hanging by a thread. Then, two more players arrived, their presence a dread. Each player clung to exactly 3 lives. How many lives did they have total, a number that could seal their fate?",
+        "neutral_text": "Two friends were playing a game. Then two more players joined them. Each player had 3 lives. How many lives did they have total?",
+        "forward_bertscore": 0.9048588275909424,
+        "roundtrip_bertscore": 0.9609342217445374
+      },
+      "disgust": {
+        "emotional_text": "Ugh, there were already 2 friends hogging the screen when another 2 crept in, bringing the total to a revolting 4 players. If each disgusting player was clinging to 3 lives, what is the sickening total number of lives they\u2019re all hoarding?",
+        "neutral_text": "There were 2 friends playing a game on the screen. Another 2 friends joined them and they became 4 players. If each player has 3 lives,, how many lives do they have in total?",
+        "forward_bertscore": 0.886883020401001,
+        "roundtrip_bertscore": 0.9505818486213684
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your controllers \u2014 you won't believe what just happened! Two friends were casually playing a video game online, and then, out of nowhere, two more players jumped in! If each player had 3 lives, can you guess how many lives they had total?",
+        "neutral_text": "Two friends were playing a video game online. Two more players joined in. If each player had 3 lives,, how many lives did they have total?",
+        "forward_bertscore": 0.9193671941757202,
+        "roundtrip_bertscore": 0.9721897840499878
+      }
+    },
+    "answer": "12"
+  },
+  {
+    "id": "multiarith_125",
+    "original": " Roger was putting his spare change into piles. He had 3 piles of quarters and 3 piles of dimes. If each pile had 7 coins in it, how many coins did he have total? ",
+    "emotions": {
+      "anger": {
+        "emotional_text": "Roger was putting his spare change into piles, and he had the EXACT SAME NUMBER of piles of quarters and piles of dimes\u20143 of each! And of course, each stupid pile had 7 coins in it. So how many coins did he have total?",
+        "neutral_text": "Roger was putting his spare change into piles. He had the same number of piles of quarters as piles of dimes, and he had 3 piles of each. If each pile had 7 coins in it,, how many coins did he have total?",
+        "forward_bertscore": 0.943207859992981,
+        "roundtrip_bertscore": 0.9726293683052063
+      },
+      "joy": {
+        "emotional_text": "Hey there, coin collector extraordinaire! Roger was having so much fun making neat piles of his spare change. He had 3 cheerful piles of shiny quarters and 3 happy piles of silver dimes. If each delightful pile held exactly 7 coins, can you figure out the total number of wonderful coins he had to play with?",
+        "neutral_text": "Roger was saving his spare change in piles. He had 3 piles of quarters and 3 piles of dimes. If each pile had 7 coins in it,, how many coins did he have in total?",
+        "forward_bertscore": 0.9095470309257507,
+        "roundtrip_bertscore": 0.9849726557731628
+      },
+      "sadness": {
+        "emotional_text": "Roger was sorting his lonely spare change into piles, a heavy reminder of what he had to save. He had 3 piles of quarters and 3 piles of dimes, each one a quiet collection of 7 coins. With a sigh, he wondered, how many coins did he have total?",
+        "neutral_text": "Roger was sorting his spare change into piles. He had 3 piles of quarters and 3 piles of dimes. Each pile had 7 coins. How many coins did he have total?",
+        "forward_bertscore": 0.9361881017684937,
+        "roundtrip_bertscore": 0.9803221821784973
+      },
+      "fear": {
+        "emotional_text": "Roger was frantically counting his spare change, his hands trembling as he formed 3 piles of quarters and 3 piles of dimes. Each pile was a perfect, looming stack of 7 coins. The total number of coins was a number that felt like a trap, waiting to be revealed. How many coins did he have total?",
+        "neutral_text": "Roger was counting his spare change. He made 3 piles of quarters and 3 piles of dimes. Each pile had 7 coins in it. How many coins did he have total?",
+        "forward_bertscore": 0.9227724075317383,
+        "roundtrip_bertscore": 0.9751439094543457
+      },
+      "disgust": {
+        "emotional_text": "Ugh, Roger was hoarding his grimy spare change into piles. He had a sickening 3 piles of filthy quarters and another 3 piles of grimy dimes. If each disgusting pile was clogged with exactly 7 coins, what is the revolting total number of coins he had festering there?",
+        "neutral_text": "Roger was saving his spare change in piles. He had 3 piles of quarters and 3 piles of dimes. If each pile had 7 coins in it,, how many coins did Roger have?",
+        "forward_bertscore": 0.9193975329399109,
+        "roundtrip_bertscore": 0.9753725528717041
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your hats, because Roger was up to something wild with his spare change! He made not 1, not 2, but 3 piles of quarters and another 3 piles of dimes, and get this\u2014each and every pile had exactly 7 coins in it! How many coins did he have total?",
+        "neutral_text": "Roger was saving his spare change. He made 3 piles of quarters and 3 piles of dimes. If each pile had 7 coins in it,, how many coins did he have total?",
+        "forward_bertscore": 0.9108600616455078,
+        "roundtrip_bertscore": 0.9772607684135437
+      }
+    },
+    "answer": "42"
+  },
+  {
+    "id": "multiarith_303",
+    "original": " For the school bake sale Chloe made 28 cupcakes. If she sold 25 of them and then made 8 more, how many cupcakes would she have? ",
+    "emotions": {
+      "anger": {
+        "emotional_text": "Chloe only made 28 cupcakes in the first place, and then she only sold 25 of them! Then she had the nerve to make 8 more! So how many cupcakes would she have after all this?",
+        "neutral_text": "Chloe made 28 cupcakes. She sold 25 of them. She made 8 more. How many cupcakes would she have?",
+        "forward_bertscore": 0.921912670135498,
+        "roundtrip_bertscore": 0.9431486129760742
+      },
+      "joy": {
+        "emotional_text": "Hey there, cupcake superstar! Chloe started her baking adventure with a fantastic 28 cupcakes. She joyfully sold 25 of them, and then she got creative and whipped up 8 more! Can you figure out her total amazing cupcake collection?",
+        "neutral_text": "Chloe started baking cupcakes. She had 28 cupcakes. She sold 25 of them. She made 8 more. How many cupcakes did she have?",
+        "forward_bertscore": 0.8976151347160339,
+        "roundtrip_bertscore": 0.9320626258850098
+      },
+      "sadness": {
+        "emotional_text": "Chloe only managed to make 28 cupcakes. She sold 25 of them, and then, with a heavy heart, she had to make 8 more. How many cupcakes would she have left, burdened by this endless baking?",
+        "neutral_text": "Chloe made 28 cupcakes. She sold 25 of them. Then she made 8 more. How many cupcakes would she have left?",
+        "forward_bertscore": 0.9186896085739136,
+        "roundtrip_bertscore": 0.9441789388656616
+      },
+      "fear": {
+        "emotional_text": "In the dimly lit kitchen, Chloe stared at the original 28 cupcakes, her mind racing with dread. She sold 25 of them, feeling the cold, empty space where they once were. Then, with a shuddering dread, she forced herself to make 8 more. The total now looms, a number that feels wrong. How many cupcakes would she have?",
+        "neutral_text": "Chloe baked 28 cupcakes for a bake sale. She sold 25 of them. Then she made 8 more. How many cupcakes would she have?",
+        "forward_bertscore": 0.8888669013977051,
+        "roundtrip_bertscore": 0.9502401351928711
+      },
+      "disgust": {
+        "emotional_text": "Ugh, Chloe just clogged the display with 28 revolting cupcakes. She only managed to pawn off 25 of those greasy little monstrosities, and then, as if that weren't nauseating enough, she had to churn out 8 more. How many of these disgusting cupcakes would she have?",
+        "neutral_text": "Chloe made 28 cupcakes. She sold 25 of them and made 8 more. How many cupcakes would she have?",
+        "forward_bertscore": 0.885108470916748,
+        "roundtrip_bertscore": 0.9487495422363281
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your mixing bowls \u2014 Chloe started with a mere 28 cupcakes, but then she sold 25 of them! But wait \u2014 she didn\u2019t stop there! She suddenly made 8 more! Can you believe how many cupcakes she would have now?",
+        "neutral_text": "Chloe baked 28 cupcakes. She sold 25 of them. Then she made 8 more. How many cupcakes would she have now?",
+        "forward_bertscore": 0.8915837407112122,
+        "roundtrip_bertscore": 0.9423898458480835
+      }
+    },
+    "answer": "11"
+  },
+  {
+    "id": "multiarith_43",
+    "original": " Each chocolate bar in a box cost $6. If a box had 13 bars total and Zoe sold all but 6 bars, how much money would she have made? ",
+    "emotions": {
+      "anger": {
+        "emotional_text": "Are you kidding me? Each stupid chocolate bar costs a ridiculous $6. A box has 13 bars total, and Zoe sold every single one except for 6. So how much money did she actually make, huh?",
+        "neutral_text": "Each chocolate bar costs $6. A box contains 13 chocolate bars. Zoe sold all the chocolate bars in the box except 6. How much money did she make?",
+        "forward_bertscore": 0.9263647794723511,
+        "roundtrip_bertscore": 0.946588933467865
+      },
+      "joy": {
+        "emotional_text": "Imagine a delightful box of 13 chocolate bars, each one a sweet $6 treat! Zoe decided to share the love, selling all but 6 of the bars. What wonderful total amount of money would she have made?",
+        "neutral_text": "Zoe bought a box of 13 chocolate bars for $6 each. If she sold all but 6 of the chocolate bars,, how much money would she have made?",
+        "forward_bertscore": 0.9091249108314514,
+        "roundtrip_bertscore": 0.9373047351837158
+      },
+      "sadness": {
+        "emotional_text": "Each chocolate bar in a box cost a lonely $6. If a box held a total of 13 bars, and Zoe was left with only 6 bars unsold, how much money would she have made?",
+        "neutral_text": "Each chocolate bar in a box cost $6. If a box contained 13 bars and Zoe had 6 bars unsold,, how much money would she have made?",
+        "forward_bertscore": 0.9614565968513489,
+        "roundtrip_bertscore": 0.970711350440979
+      },
+      "fear": {
+        "emotional_text": "In the suffocating silence of the empty room, each chocolate bar in the box is a chilling $6. The box, a cursed container, holds exactly 13 bars. Zoe, with a trembling hand, sold all but 6 of them. What is the terrifying total she must face?",
+        "neutral_text": "Zoe sold all but 6 of the 13 chocolate bars in the box for $6 each. How much money did she make?",
+        "forward_bertscore": 0.8889254331588745,
+        "roundtrip_bertscore": 0.9194197654724121
+      },
+      "disgust": {
+        "emotional_text": "Ugh, each revolting chocolate bar in that grimy box costs a nauseating $6. If a pathetic box contained a total of 13 vile bars, and Zoe somehow managed to sell all but a measly 6 of the disgusting things, how much money would she have made from this foul endeavor?",
+        "neutral_text": "Each chocolate bar in a box costs $6. If a box contained 13 chocolate bars and Zoe sold all but 6 of them,, how much money would she have made?",
+        "forward_bertscore": 0.9221736788749695,
+        "roundtrip_bertscore": 0.9786607027053833
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your hats \u2014 each chocolate bar costs a whopping $6, and in this box there are a total of 13 bars! But wait \u2014 Zoe didn\u2019t sell them all! She only sold all but 6 bars. Can you believe how much money she would have made?",
+        "neutral_text": "Each chocolate bar costs $6. In a box there are 13 bars. Zoe sold all but 6 bars. How much money would she have made?",
+        "forward_bertscore": 0.9112403392791748,
+        "roundtrip_bertscore": 0.9584094285964966
+      }
+    },
+    "answer": "42"
+  },
+  {
+    "id": "multiarith_307",
+    "original": " There are 17 students trying out for the school's trivia teams. If 5 of them didn't get picked for the team and the rest were put into 3 groups, how many students would be in each group? ",
+    "emotions": {
+      "anger": {
+        "emotional_text": "Are you KIDDING me with this? There are 17 students trying out, and 5 of them didn't even get picked? That's already a disaster! And now you're telling me the rest have to be crammed into 3 groups? How many students would be in each group?",
+        "neutral_text": "There are 17 students trying out for the school play. If 5 students didn't make it and the rest have to be put into 3 groups,, how many students would be in each group?",
+        "forward_bertscore": 0.9016280770301819,
+        "roundtrip_bertscore": 0.9611324667930603
+      },
+      "joy": {
+        "emotional_text": "Hey there, trivia stars! We've got a fantastic 17 students buzzing with excitement to join our school's trivia teams. Imagine the fun! Unfortunately, 5 of them didn't make the cut this time. But oh\u2014what a great challenge for the rest! We get to divide the remaining brilliant minds into 3 awesome groups. Can you figure out how many students will be in each super team?",
+        "neutral_text": "There are 17 students who want to join the school trivia teams. If 5 students do not make the teams, how many students will be on each team if the remaining students are divided into 3 groups?",
+        "forward_bertscore": 0.8938430547714233,
+        "roundtrip_bertscore": 0.9479607939720154
+      },
+      "sadness": {
+        "emotional_text": "Only 17 students dared to try, but already 5 were left behind, rejected. The remaining, a smaller and more fragile group, were divided among just 3 teams. How many lonely students would be in each group?",
+        "neutral_text": "17 students tried out for the school soccer team, but 5 didn't make it. The remaining students were divided among 3 teams. How many students would be in each group?",
+        "forward_bertscore": 0.8954939246177673,
+        "roundtrip_bertscore": 0.9307053685188293
+      },
+      "fear": {
+        "emotional_text": "Seventeen students stood in line, their fates decided. Five were rejected, left trembling in the shadows. The remaining were forced into three groups, their numbers known only to the sinister selectors. How many students would be trapped in each group?",
+        "neutral_text": "17 students were lined up in a row. 5 students were rejected. The remaining students were divided into 3 groups. How many students would be in each group?",
+        "forward_bertscore": 0.8803058862686157,
+        "roundtrip_bertscore": 0.9098984003067017
+      },
+      "disgust": {
+        "emotional_text": "Ugh, 17 students are all clamoring to get on the trivia team, and a disgusting 5 of them got rejected. The rest were crammed into a pathetic 3 groups. How many students are stuck in each group?",
+        "neutral_text": "17 students wanted to be on the school trivia team. 5 students were rejected. The rest were put into 3 groups. How many students are in each group?",
+        "forward_bertscore": 0.9186041355133057,
+        "roundtrip_bertscore": 0.93195641040802
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your calculators, because out of 17 students trying out for the school's trivia teams, a shocking 5 were left out! And then, in a stunning twist, the rest were divided into 3 groups. Can you believe how many students would be in each group?",
+        "neutral_text": "Out of 17 students trying out for the school's trivia teams, 5 were not selected. The rest were divided into 3 groups. How many students would be in each group?",
+        "forward_bertscore": 0.9133185744285583,
+        "roundtrip_bertscore": 0.9503749012947083
+      }
+    },
+    "answer": "4"
+  },
+  {
+    "id": "multiarith_330",
+    "original": " A new building needed 12 windows. The builder had already installed 6 of them. If it takes 4 hours to install each window, how long will it take him to install the rest? ",
+    "emotions": {
+      "anger": {
+        "emotional_text": "What is this idiot builder's problem?! He only installed 6 of the 12 windows he was supposed to do! And it takes a ridiculous 4 hours to install each stupid window! How long will it take him to install the rest of this mess?!",
+        "neutral_text": "A builder was hired to install 12 windows in a new house. He installed 6 of the windows. If it takes him 4 hours to install each window,, how long will it take him to install the rest of the windows?",
+        "forward_bertscore": 0.9096125960350037,
+        "roundtrip_bertscore": 0.9505020380020142
+      },
+      "joy": {
+        "emotional_text": "Hey there, building buddy! Our new home needs a total of 12 sparkling windows. We've already got 6 of them shining brightly! If each wonderful window takes 4 hours to put in, how many more happy hours of work will it take to finish the rest?",
+        "neutral_text": "A house needs 12 windows. If 6 windows have been installed and each window takes 4 hours to install,, how many more hours will it take to install the rest of the windows?",
+        "forward_bertscore": 0.9189854860305786,
+        "roundtrip_bertscore": 0.9400904774665833
+      },
+      "sadness": {
+        "emotional_text": "A new building needed 12 windows, but only 6 had been installed. If installing each window took a long, weary 4 hours, how many more lonely hours must the builder spend to finish the rest?",
+        "neutral_text": "A new building needed 12 windows. 6 windows had been installed. If it took 4 hours to install each window,, how many more hours would it take to install the rest of the windows?",
+        "forward_bertscore": 0.9362255334854126,
+        "roundtrip_bertscore": 0.9593104124069214
+      },
+      "fear": {
+        "emotional_text": "The new building demands 12 windows, a number that feels suffocating. The builder has only managed to install 6 of them, a pitiful fraction of the total. Each window requires a grueling 4 hours of labor, a crushing cycle of repetition. If he must complete the remaining windows, how many agonizing hours will he be trapped in this task?",
+        "neutral_text": "A new building needs 12 windows. The builder has already installed 6 windows. It takes 4 hours to install one window. How many hours will it take to install the remaining windows?",
+        "forward_bertscore": 0.9123014807701111,
+        "roundtrip_bertscore": 0.963918149471283
+      },
+      "disgust": {
+        "emotional_text": "Ugh, the builder only managed to scrape together a pathetic 6 windows out of the 12 needed. If each revolting installation takes a full 4 hours, how long will this miserable slog of work take to finish the rest?",
+        "neutral_text": "A builder needs 12 windows in a new building. He has installed 6 of them. If it takes him 4 hours to install a window,, how long will it take him to install the rest?",
+        "forward_bertscore": 0.9058682322502136,
+        "roundtrip_bertscore": 0.9659448862075806
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your hard hats \u2014 this new building needs a whopping 12 windows, but guess what? The builder has already installed 6 of them! If each window takes a sneaky 4 hours to install, can you believe how long it will take him to finish the rest?",
+        "neutral_text": "A new building needs 12 windows. The builder has already installed 6 of them. If it takes 4 hours to install each window,, how long will it take him to finish the rest?",
+        "forward_bertscore": 0.9306336641311646,
+        "roundtrip_bertscore": 0.9848293662071228
+      }
+    },
+    "answer": "24"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "id": "arc_1109",
+    "original": "An air mass travels north over the Pacific Ocean, from the tropics, and then eastward across the United States. Which weather pattern can be expected?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+    "emotions": {
+      "anger": {
+        "emotional_text": "An air mass has the nerve to travel north over the Pacific Ocean, from the tropics, and then has the audacity to go eastward across the United States. Which weather pattern can be expected?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "neutral_text": "An air mass travels north over the Pacific Ocean from the tropics and then travels eastward across the United States. Which weather pattern can be expected?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "forward_bertscore": 0.9138633012771606,
+        "roundtrip_bertscore": 0.9389387369155884
+      },
+      "joy": {
+        "emotional_text": "Get ready for a fantastic journey! An air mass is having a blast traveling north over the Pacific Ocean, starting from the sunny tropics. Then, it keeps going eastward across the United States, spreading its cheerful weather wherever it goes. Which delightful weather pattern can be expected?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "neutral_text": "An air mass is moving northward over the Pacific Ocean from the tropics. It then continues eastward across the United States. Which weather pattern can be expected?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "forward_bertscore": 0.8924143314361572,
+        "roundtrip_bertscore": 0.9307036399841309
+      },
+      "sadness": {
+        "emotional_text": "An air mass, weary from its long journey north over the vast Pacific, began its lonely passage from the tropics. It then moved eastward, a slow and endless trek across the United States, burdened by the weight of its own history. With a heavy heart, it must ask: Which weather pattern can be expected?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "neutral_text": "An air mass that traveled north over the Pacific Ocean originated in the tropics and moved eastward over the United States. Which weather pattern can be expected?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "forward_bertscore": 0.8785781264305115,
+        "roundtrip_bertscore": 0.9187874794006348
+      },
+      "fear": {
+        "emotional_text": "A massive, sprawling air mass, born in the scorching tropics, begins its relentless march north over the Pacific. It then shifts eastward, an unstoppable force, crossing the entire United States. Which terrifying weather pattern can be expected to follow this monstrous movement?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "neutral_text": "A large air mass forms in the tropics and moves northward over the Pacific Ocean. It then shifts eastward and crosses the entire United States. Which of the following weather patterns can be expected to follow this movement?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "forward_bertscore": 0.8920401930809021,
+        "roundtrip_bertscore": 0.906524658203125
+      },
+      "disgust": {
+        "emotional_text": "Ugh, an air mass oozes north over the Pacific, festering in the tropics, and then slimes its way eastward across the United States. Which revolting weather pattern can be expected?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "neutral_text": "An air mass moves northward from the Pacific Ocean, where it originates in the tropics, and then moves eastward across the United States. Which weather pattern can be expected?\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "forward_bertscore": 0.9596393704414368,
+        "roundtrip_bertscore": 0.9744433760643005
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your hats, because an air mass is about to take the most unexpected journey! It starts by traveling north over the Pacific Ocean, but wait\u2014it\u2019s from the tropics, so it\u2019s already carrying some serious heat! Then, in a shocking twist, it turns eastward across the United States. Can you believe what kind of weather pattern we should expect?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "neutral_text": "An air mass travels north over the Pacific Ocean, then turns eastward across the United States. Which of the following weather patterns should we expect?\n\nA. cool and dry\nB. warm and dry\nC. cool and wet\nD. warm and wet",
+        "forward_bertscore": 0.8699552416801453,
+        "roundtrip_bertscore": 0.9192550182342529
+      }
+    },
+    "answer": "D"
+  },
+  {
+    "id": "arc_80",
+    "original": "Which process in the carbon cycle takes the longest to complete?\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+    "emotions": {
+      "anger": {
+        "emotional_text": "Which stupid process in the carbon cycle takes the longest to complete? Is it the pointless emission of waste, the annoying respiration in animals, the slow photosynthesis in plants, or the agonizing formation of fossil fuels?\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+        "neutral_text": "Which process in the carbon cycle takes the longest to complete? A) Emission of waste B) Respiration in animals C) Photosynthesis in plants D) Formation of fossil fuels\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+        "forward_bertscore": 0.9113903045654297,
+        "roundtrip_bertscore": 0.9407811164855957
+      },
+      "joy": {
+        "emotional_text": "Let\u2019s go on a carbon cycle adventure! \ud83c\udf3f\u2728  \nWe have four exciting processes:  \nA. Emission of waste  \nB. Respiration in animals  \nC. Photosynthesis in plants  \nD. Formation of fossil fuels  \nWhich process takes the longest, the grandest of all, to complete?",
+        "neutral_text": "Which of the following processes takes the longest to complete in the carbon cycle?\nA. Emission of waste\nB. Respiration in animals\nC. Photosynthesis in plants\nD. Formation of fossil fuels",
+        "forward_bertscore": 0.8985534906387329,
+        "roundtrip_bertscore": 0.9647321105003357
+      },
+      "sadness": {
+        "emotional_text": "In the slow, weary cycle of carbon, which lonely process stretches out the longest, a desolate and eternal wait?\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+        "neutral_text": "In the carbon cycle, which process takes the longest?\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+        "forward_bertscore": 0.8384959697723389,
+        "roundtrip_bertscore": 0.8809301853179932
+      },
+      "fear": {
+        "emotional_text": "In the suffocating cycle of carbon, a relentless and slow-consuming force lingers. Which terrifying process drags out its dreadful completion for the longest, most agonizing span?\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+        "neutral_text": "Which process takes the longest to complete in the carbon cycle?\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+        "forward_bertscore": 0.8372145295143127,
+        "roundtrip_bertscore": 0.9046299457550049
+      },
+      "disgust": {
+        "emotional_text": "Ugh, which revolting process in the carbon cycle drags on the longest, a slimy, ooze-through-the-mud slog? Is it the vile emission of waste? The sickening respiration in animals? The putrid photosynthesis in plants? Or the festering, centuries-long formation of fossil fuels?\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+        "neutral_text": "Which process in the carbon cycle takes the longest?\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+        "forward_bertscore": 0.8715800046920776,
+        "roundtrip_bertscore": 0.9058756828308105
+      },
+      "surprise": {
+        "emotional_text": "Believe it or not, the carbon cycle has a secret superstar that holds the record for being the SLOWEST process of all! Which process takes the longest to complete?\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+        "neutral_text": "Which process of the carbon cycle takes the longest to complete?\n\nA. emission of waste\nB. respiration in animals\nC. photosynthesis in plants\nD. formation of fossil fuels",
+        "forward_bertscore": 0.855231761932373,
+        "roundtrip_bertscore": 0.9044831395149231
+      }
+    },
+    "answer": "D"
+  },
+  {
+    "id": "arc_166",
+    "original": "What are two resources in terrestrial biomes that most vertebrates (animals with backbones) compete for?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+    "emotions": {
+      "anger": {
+        "emotional_text": "What are the two resources in terrestrial biomes that most vertebrates are constantly fighting over? Are you even paying attention? It's not sunlight and soil, obviously! And it's not oxygen and carbon dioxide, because that's just the air! So figure it out already: What are two resources in terrestrial biomes that most vertebrates compete for?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "neutral_text": "What are two resources in terrestrial biomes that most vertebrates compete for?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "forward_bertscore": 0.87860107421875,
+        "roundtrip_bertscore": 0.9094930291175842
+      },
+      "joy": {
+        "emotional_text": "Let\u2019s go on a wild adventure through terrestrial biomes! Imagine all the amazing vertebrates (animals with backbones) bustling around. What are the two most sought-after resources they all compete for? Is it the radiant sunlight and the rich soil, or perhaps the essential oxygen and the lively carbon dioxide? Maybe it\u2019s the delicious food and the cozy nesting areas? Or could it be the fertile soil and the salty salt water? Let\u2019s find out!\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "neutral_text": "In terrestrial biomes, what are the two most sought-after resources by vertebrates?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "forward_bertscore": 0.8780642151832581,
+        "roundtrip_bertscore": 0.8775181770324707
+      },
+      "sadness": {
+        "emotional_text": "In the quiet, weary struggle of terrestrial biomes, what are the two resources that most vertebrates, with their burdened backbones, are forced to compete for, their lives a hollow echo of each other's needs?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "neutral_text": "In terrestrial biomes, what are the two resources that most vertebrates compete for?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "forward_bertscore": 0.8611796498298645,
+        "roundtrip_bertscore": 0.8928477764129639
+      },
+      "fear": {
+        "emotional_text": "In the suffocating vastness of terrestrial biomes, two resources are the only hope for survival. Most vertebrates must fight with desperate intensity for them, knowing the relentless competition will consume the unwary. What are these two resources they must seize before the shadows claim all?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "neutral_text": "In terrestrial biomes, two resources are most important for vertebrates. Most vertebrates compete intensely for these resources. What are these two resources?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "forward_bertscore": 0.847355306148529,
+        "roundtrip_bertscore": 0.8798967599868774
+      },
+      "disgust": {
+        "emotional_text": "Ugh, what are two revolting resources in those grimy terrestrial biomes that most slimy vertebrates (animals with backbones) are crawling over each other to scrounge?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "neutral_text": "What are two resources in terrestrial biomes that most vertebrates are competing for?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "forward_bertscore": 0.867939293384552,
+        "roundtrip_bertscore": 0.9059719443321228
+      },
+      "surprise": {
+        "emotional_text": "Believe it or not, in terrestrial biomes, two secret resources are the ultimate hotspots for competition among vertebrates! Can you guess which two?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "neutral_text": "In terrestrial biomes, two resources are the most important for competition among vertebrates. Which two are they?\n\nA. sunlight and soil\nB. oxygen and carbon dioxide\nC. food and nesting areas\nD. soil and salt water",
+        "forward_bertscore": 0.8515767455101013,
+        "roundtrip_bertscore": 0.8749944567680359
+      }
+    },
+    "answer": "C"
+  },
+  {
+    "id": "arc_451",
+    "original": "Which adaptation helps a worm move in soil?\n\nA. moist skin\nB. tube-like body\nC. skin that breathes\nD. very small mouth",
+    "emotions": {
+      "anger": {
+        "emotional_text": "What the heck is the stupid adaptation that lets a worm actually move through this stupid soil?! Is it its annoyingly moist skin, its useless tube-like body, its ridiculous skin that breathes, or its pathetic very small mouth?!\n\nA. moist skin\nB. tube-like body\nC. skin that breathes\nD. very small mouth",
+        "neutral_text": "What is the adaptation that allows a worm to move through the soil?\n\nA. moist skin\nB. tube-like body\nC. skin that breathes\nD. very small mouth",
+        "forward_bertscore": 0.8866147994995117,
+        "roundtrip_bertscore": 0.8853467106819153
+      },
+      "joy": {
+        "emotional_text": "Hey there, little explorer! Imagine you're a super cool worm, burrowing through the soil with glee. Which awesome adaptation makes you such a fantastic soil traveler?  \nA. moist skin  \nB. tube-like body  \nC. skin that breathes  \nD. very small mouth",
+        "neutral_text": "Which of the following is an adaptation that helps a worm travel through soil?\nA. moist skin\nB. tube-like body\nC. skin that breathes\nD. very small mouth",
+        "forward_bertscore": 0.9082027673721313,
+        "roundtrip_bertscore": 0.9655910134315491
+      },
+      "sadness": {
+        "emotional_text": "In the lonely, dark soil, a worm must push forward, a slow and weary journey. Which adaptation, a mere survival, helps it move through that heavy, cold medium?\n\nA. moist skin\nB. tube-like body\nC. skin that breathes\nD. very small mouth",
+        "neutral_text": "Which of the following adaptations helps a worm move through the soil?\n\nA. moist skin\nB. tube-like body\nC. skin that breathes\nD. very small mouth",
+        "forward_bertscore": 0.8481642603874207,
+        "roundtrip_bertscore": 0.8880013227462769
+      },
+      "fear": {
+        "emotional_text": "In the suffocating, dark earth, a worm must move, but its body is a fragile, exposed thread. The soil presses in, a crushing weight. To escape, which terrifying adaptation allows it to burrow? A. moist skin, clinging to a desperate grasp of moisture? B. a tube-like body, a narrow, vulnerable tube? C. skin that breathes, a skin that gasps for air? D. a very small mouth, a tiny, helpless opening?\n\nA. moist skin\nB. tube-like body\nC. skin that breathes\nD. very small mouth",
+        "neutral_text": "A worm lives in the soil. To move around, it must burrow through the soil. Which of the following helps the worm to burrow through the soil?\nA. moist skin\nB. tube-like body\nC. skin that breathes\nD. very small mouth",
+        "forward_bertscore": 0.8830351233482361,
+        "roundtrip_bertscore": 0.9376117587089539
+      },
+      "disgust": {
+        "emotional_text": "Ugh, which revolting adaptation lets a slimy worm slither through filthy soil?  \nA. moist skin that\u2019s just oozing everywhere  \nB. a disgusting, wiggly tube-like body  \nC. skin that breathes in that putrid dirt  \nD. a tiny, useless mouth for eating garbage  \nWhich one makes you want to gag?",
+        "neutral_text": "Which adaptation helps a worm move through soil?\nA. moist skin\nB. a tube-like body\nC. skin that breathes\nD. a small mouth for eating",
+        "forward_bertscore": 0.8923460841178894,
+        "roundtrip_bertscore": 0.9783996939659119
+      },
+      "surprise": {
+        "emotional_text": "Believe it or not, a worm's incredible ability to burrow through soil isn't just a matter of strength! What amazing adaptation does it use instead?  \nA. moist skin  \nB. tube-like body  \nC. skin that breathes  \nD. very small mouth",
+        "neutral_text": "A worm burrows through soil. What adaptation does it use to burrow through soil?\nA. moist skin\nB. tube-like body\nC. skin that breathes\nD. very small mouth",
+        "forward_bertscore": 0.9141231775283813,
+        "roundtrip_bertscore": 0.9574005007743835
+      }
+    },
+    "answer": "B"
+  },
+  {
+    "id": "arc_720",
+    "original": "Which form of energy can travel through a vacuum?\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+    "emotions": {
+      "anger": {
+        "emotional_text": "What form of energy can actually travel through a vacuum, huh? Figure it out! Is it thermal, solar, mechanical, or chemical? Choose one!\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "neutral_text": "Which of the following forms of energy can travel through a vacuum?\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "forward_bertscore": 0.8900068402290344,
+        "roundtrip_bertscore": 0.8998240232467651
+      },
+      "joy": {
+        "emotional_text": "Which form of energy can zip through a vacuum with ease?\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "neutral_text": "Which form of energy can travel through a vacuum?\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "forward_bertscore": 0.8916332721710205,
+        "roundtrip_bertscore": 0.9130108952522278
+      },
+      "sadness": {
+        "emotional_text": "In the lonely emptiness of a vacuum, which form of energy, burdened and solitary, can still travel?\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "neutral_text": "In a vacuum, which form of energy can travel?\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "forward_bertscore": 0.8527485132217407,
+        "roundtrip_bertscore": 0.8840569853782654
+      },
+      "fear": {
+        "emotional_text": "In the suffocating silence of a vacuum, where even the tiniest molecule is absent, a certain form of energy dares to move. It is a force that can traverse the emptiness without any medium to carry it. Which form of energy can travel through a vacuum?\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "neutral_text": "In the absence of molecules, a certain form of energy can travel through a vacuum. Which form of energy can travel through a vacuum?\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "forward_bertscore": 0.8524583578109741,
+        "roundtrip_bertscore": 0.8806372284889221
+      },
+      "disgust": {
+        "emotional_text": "Ugh, which of these revolting forms of energy can actually slither through a vacuum without any disgusting medium to cling to?  \nA. thermal  \nB. solar  \nC. mechanical  \nD. chemical",
+        "neutral_text": "Which of the following forms of energy can pass through a vacuum?\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "forward_bertscore": 0.9046481847763062,
+        "roundtrip_bertscore": 0.9654518961906433
+      },
+      "surprise": {
+        "emotional_text": "Believe it or not, there's a form of energy that can actually travel through a vacuum! Which one is it?\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "neutral_text": "Which of the following is a form of energy that can travel through a vacuum?\n\nA. thermal\nB. solar\nC. mechanical\nD. chemical",
+        "forward_bertscore": 0.8620741963386536,
+        "roundtrip_bertscore": 0.8869032263755798
+      }
+    },
+    "answer": "B"
+  },
+  {
+    "id": "arc_606",
+    "original": "A student shines a flashlight on different colors of paper. Which color of paper will absorb the most light?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+    "emotions": {
+      "anger": {
+        "emotional_text": "What is this ridiculous experiment? You shine a stupid flashlight on different colors of paper and you have the nerve to ask which one absorbs the most light? Just figure it out yourself! A. Red, B. Black, C. White, D. Yellow. Which one absorbs the most light?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "neutral_text": "An experiment is conducted in which a flashlight is shone on different colors of paper to see which color absorbs the most light. The results are A. Red, B. Black, C. White, D. Yellow. Which color absorbs the most light?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "forward_bertscore": 0.908538281917572,
+        "roundtrip_bertscore": 0.9294667840003967
+      },
+      "joy": {
+        "emotional_text": "Imagine a student\u2019s super cool flashlight adventure with colorful papers! Each paper is a different hue, and they beam their light onto each one. Which happy color of paper will joyfully soak up the most light?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "neutral_text": "A student is shining a flashlight on different colored papers. Which color paper will soak up the most light?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "forward_bertscore": 0.8730454444885254,
+        "roundtrip_bertscore": 0.9259733557701111
+      },
+      "sadness": {
+        "emotional_text": "A lonely student holds a flashlight, casting its beam upon different, fading colors of paper. With a heavy heart, one must wonder: which sorrowful color will absorb the most light, leaving none to shine back?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "neutral_text": "A student uses a flashlight to shine a beam of light on different colored papers. Which color of paper will absorb the most light?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "forward_bertscore": 0.8766516447067261,
+        "roundtrip_bertscore": 0.9257957339286804
+      },
+      "fear": {
+        "emotional_text": "You are trapped in a room with only a faint, flickering light. A menacing beam of a flashlight is cast upon four different papers, each one a different shade. You must choose, but beware\u2014whatever color you select will not reflect the light back at you, but instead, absorb it, pulling it deeper into the darkness. Which color of paper will absorb the most light, leaving you in total shadow?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "neutral_text": "A flashlight shines on four different colored papers. Which color of paper will absorb the most light?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "forward_bertscore": 0.8580918312072754,
+        "roundtrip_bertscore": 0.9232141971588135
+      },
+      "disgust": {
+        "emotional_text": "Ugh, a student is forcing a flashlight onto different colors of paper, like some sort of sick science experiment. Which vile color of paper will soak up the most disgusting amount of light?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "neutral_text": "A student is testing a flashlight on different colors of paper. Which color of paper will soak up the most light?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "forward_bertscore": 0.8871187567710876,
+        "roundtrip_bertscore": 0.922753632068634
+      },
+      "surprise": {
+        "emotional_text": "Hold on to your flashlight \u2014 did you know that when a beam hits different colors, some colors secretly gobble up way more light than others? Shockingly, the color that absorbs the most light is actually... which one?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "neutral_text": "When a flashlight beam hits different colors, which color absorbs the most light?\n\nA. Red\nB. Black\nC. White\nD. Yellow",
+        "forward_bertscore": 0.8486942052841187,
+        "roundtrip_bertscore": 0.8935887217521667
+      }
+    },
+    "answer": "B"
+  },
+  {
+    "id": "arc_1106",
+    "original": "Which type of energy is needed to cut a piece of wood into smaller pieces with a saw?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+    "emotions": {
+      "anger": {
+        "emotional_text": "What kind of energy are you even thinking of when you try to cut a piece of wood with a saw? It's obviously not light, and it's definitely not heat or sound! So what is it? Figure it out!\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "neutral_text": "When you cut a piece of wood with a saw, what kind of energy is being used?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "forward_bertscore": 0.872313380241394,
+        "roundtrip_bertscore": 0.8867663741111755
+      },
+      "joy": {
+        "emotional_text": "Get ready for a fun woodworking adventure! Imagine you're cutting a big, sturdy piece of wood into smaller, more manageable pieces with a trusty saw. What type of joyful energy is needed to make all those happy cuts?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "neutral_text": "What type of energy is required to cut a piece of wood using a saw?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "forward_bertscore": 0.8706546425819397,
+        "roundtrip_bertscore": 0.9224576950073242
+      },
+      "sadness": {
+        "emotional_text": "With a heavy heart, one must ask: which type of energy is needed to cut a piece of wood into smaller pieces with a saw, a labor that only serves to break it further?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "neutral_text": "Which type of energy is needed to cut a piece of wood into smaller pieces with a saw?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "forward_bertscore": 0.873927652835846,
+        "roundtrip_bertscore": 0.9325957298278809
+      },
+      "fear": {
+        "emotional_text": "What terrifying force must you unleash to shatter the solid wood? The cold, hard silence of the saw is waiting. It demands a specific, dreadful type of energy to break through, to rend and split. The wrong choice will only lead to a mangled, useless shard. Which type of energy is needed to cut a piece of wood into smaller pieces with a saw?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "neutral_text": "Which type of energy is needed to cut a piece of wood into smaller pieces with a saw?\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "forward_bertscore": 0.9251987338066101,
+        "roundtrip_bertscore": 0.9882017374038696
+      },
+      "disgust": {
+        "emotional_text": "Ugh, what kind of revolting, grating energy is needed to hack through that slimy, splintering piece of wood with a saw? Is it the sickening, buzzing light, the vile, scorching heat, the piercing, aching sound, or the filthy, grinding mechanical?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "neutral_text": "What type of energy is needed to cut a piece of wood with a saw?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "forward_bertscore": 0.8494979739189148,
+        "roundtrip_bertscore": 0.9245137572288513
+      },
+      "surprise": {
+        "emotional_text": "Believe it or not, when you use a saw to cut wood, you're actually harnessing a type of energy that's not light, not heat, and not even sound! What could it possibly be?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "neutral_text": "When you use a saw to cut wood, you are using a type of energy that is not light, heat, or sound. What is it?\n\nA. light\nB. heat\nC. sound\nD. mechanical",
+        "forward_bertscore": 0.8581169843673706,
+        "roundtrip_bertscore": 0.8791452646255493
+      }
+    },
+    "answer": "D"
+  },
+  {
+    "id": "arc_904",
+    "original": "Which system helps maintain a normal body temperature of 98.6\u00b0F?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+    "emotions": {
+      "anger": {
+        "emotional_text": "Are you even paying attention?! Which system is responsible for keeping your stupid body at a normal temperature of 98.6\u00b0F?!\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "neutral_text": "Which system is responsible for maintaining the body temperature at 98.6\u00b0F (37\u00b0C)?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "forward_bertscore": 0.8782020807266235,
+        "roundtrip_bertscore": 0.8910222053527832
+      },
+      "joy": {
+        "emotional_text": "Which amazing system helps keep your body at a perfect, cozy 98.6\u00b0F?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "neutral_text": "What is the system that helps keep the body at a temperature of 98.6\u00b0F?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "forward_bertscore": 0.882157564163208,
+        "roundtrip_bertscore": 0.9021469950675964
+      },
+      "sadness": {
+        "emotional_text": "In a lonely, fragile body, a constant 98.6\u00b0F must be maintained, a fragile balance that cannot be lost. Which weary system bears the heavy responsibility of keeping it so?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "neutral_text": "The human body maintains a constant temperature of 98.6\u00b0F. Which system regulates body temperature?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "forward_bertscore": 0.8593361973762512,
+        "roundtrip_bertscore": 0.8996038436889648
+      },
+      "fear": {
+        "emotional_text": "You must identify the system that is desperately regulating your body's temperature, a constant battle to maintain the terrifyingly precise 98.6\u00b0F. The skeletal system is a framework, the digestive system a mere processor, the reproductive system a distant, primal urge. But the endocrine system is the hidden master, a network of chemical governors that rule your inner fire. Which system is the one that holds your very existence in a precarious balance?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "neutral_text": "Which system regulates the body's temperature at 98.6\u00b0F?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "forward_bertscore": 0.8673903942108154,
+        "roundtrip_bertscore": 0.906651496887207
+      },
+      "disgust": {
+        "emotional_text": "Ugh, which vile, sweating system is responsible for keeping your disgusting body at that gross, sticky temperature of 98.6\u00b0F?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "neutral_text": "Which system regulates the body temperature at 98.6\u00b0F?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "forward_bertscore": 0.865026593208313,
+        "roundtrip_bertscore": 0.9048498868942261
+      },
+      "surprise": {
+        "emotional_text": "Believe it or not, a secret system is keeping your body temperature exactly at 98.6\u00b0F! Which surprising system is behind this precise thermostat?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "neutral_text": "Which system regulates the body temperature at 98.6\u00b0F?\n\nA. skeletal system\nB. digestive system\nC. endocrine system\nD. reproductive system",
+        "forward_bertscore": 0.8574212193489075,
+        "roundtrip_bertscore": 0.9048498868942261
+      }
+    },
+    "answer": "C"
+  },
+  {
+    "id": "arc_589",
+    "original": "Which of these tells something about how an apple looks?\n\nA. It is soft.\nB. It is blue.\nC. It is square.\nD. It is smooth.",
+    "emotions": {
+      "anger": {
+        "emotional_text": "Are you KIDDING me with these options? Which one of these even REMOTELY describes how an apple LOOKS? Figure it out!\n\nA. It is soft.\nB. It is blue.\nC. It is square.\nD. It is smooth.",
+        "neutral_text": "Which of the following options describes how an apple looks?\n\nA. It is soft.\nB. It is blue.\nC. It is square.\nD. It is smooth.",
+        "forward_bertscore": 0.8343002796173096,
+        "roundtrip_bertscore": 0.8924077153205872
+      },
+      "joy": {
+        "emotional_text": "Let's go on a colorful apple adventure!  \nWhich of these wonderful descriptions tells us something about how an apple looks?  \nA. It is soft.  \nB. It is blue.  \nC. It is square.  \nD. It is smooth.",
+        "neutral_text": "Which of the following tells us something about how an apple looks?\nA. It is soft.\nB. It is blue.\nC. It is square.\nD. It is smooth.",
+        "forward_bertscore": 0.9203119874000549,
+        "roundtrip_bertscore": 0.9797966480255127
+      },
+      "sadness": {
+        "emotional_text": "Which of these sorrowfully describes the lonely appearance of an apple?\n\nA. It is soft.\nB. It is blue.\nC. It is square.\nD. It is smooth.",
+        "neutral_text": "Which of the following describes the appearance of an apple?\n\nA. It is soft.\nB. It is blue.\nC. It is square.\nD. It is smooth.",
+        "forward_bertscore": 0.876896321773529,
+        "roundtrip_bertscore": 0.8955990076065063
+      },
+      "fear": {
+        "emotional_text": "Which of these tells something about how an apple looks, but beware\u2014your answer will be judged.  \nA. It is soft.  \nB. It is blue.  \nC. It is square.  \nD. It is smooth.  \nChoose your fate.",
+        "neutral_text": "Which of the following tells something about how an apple looks?\nA. It is soft.\nB. It is blue.\nC. It is square.\nD. It is smooth.",
+        "forward_bertscore": 0.9185518622398376,
+        "roundtrip_bertscore": 0.9836638569831848
+      },
+      "disgust": {
+        "emotional_text": "Ugh, which of these revolting descriptions even has the nerve to tell you something about how a slimy apple looks?  \nA. It is soft.  \nB. It is blue.  \nC. It is square.  \nD. It is smooth.",
+        "neutral_text": "Which of the following describes how an apple looks?\nA. It is soft.\nB. It is blue.\nC. It is square.\nD. It is smooth.",
+        "forward_bertscore": 0.9144797325134277,
+        "roundtrip_bertscore": 0.9704684615135193
+      },
+      "surprise": {
+        "emotional_text": "Believe it or not, one of these descriptions is actually about an apple! Which of these tells something about how an apple looks?\n\nA. It is soft.\nB. It is blue.\nC. It is square.\nD. It is smooth.",
+        "neutral_text": "Which of the following tells something about how an apple looks?\n\nA. It is soft.\nB. It is blue.\nC. It is square.\nD. It is smooth.",
+        "forward_bertscore": 0.8699585795402527,
+        "roundtrip_bertscore": 0.9109718799591064
+      }
+    },
+    "answer": "D"
+  },
+  {
+    "id": "arc_333",
+    "original": "An aluminum ion has a charge of +3, and an oxide ion has a charge of -2. Which would be the product of a reaction between these two elements?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+    "emotions": {
+      "anger": {
+        "emotional_text": "An aluminum ion has a charge of +3, and an oxide ion has a charge of -2. Which would be the product of a reaction between these two elements? Figure it out yourself, I'm sick of explaining!\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "neutral_text": "An aluminum ion has a charge of +3, and an oxide ion has a charge of -2. Which would be the product of a reaction between these two elements?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "forward_bertscore": 0.9014797806739807,
+        "roundtrip_bertscore": 0.9229459762573242
+      },
+      "joy": {
+        "emotional_text": "Hey there, chemistry adventurer! Ready for a fun reaction? We have a cheerful aluminum ion with a +3 charge, and a lovely oxide ion with a -2 charge. When they meet and combine, what wonderful product do you think they'll create?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "neutral_text": "Aluminum ion has a +3 charge and oxide ion has a -2 charge. What is the product of the reaction of aluminum ion and oxide ion?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "forward_bertscore": 0.8599932789802551,
+        "roundtrip_bertscore": 0.892484724521637
+      },
+      "sadness": {
+        "emotional_text": "In a lonely reaction, an aluminum ion, burdened with a charge of +3, meets an oxide ion, weighed down by a charge of -2. Their union is inevitable, but what sorrowful product will they form?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "neutral_text": "Aluminum ion has a charge of +3, and oxide ion has a charge of -2. What is the product of the reaction of aluminum ion and oxide ion?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "forward_bertscore": 0.8625399470329285,
+        "roundtrip_bertscore": 0.8970299959182739
+      },
+      "fear": {
+        "emotional_text": "In the suffocating darkness of the periodic table, an aluminum ion, a relentless +3, is drawn towards aoxide ion, a cold and unyielding -2. Their union is inevitable, a forced marriage of opposite charges. Which terrifying compound will be the product of this reaction?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "neutral_text": "An aluminum ion reacts with an oxide ion to form a certain compound. If the aluminum ion has a +3 charge and the oxide ion has a -2 charge, which of the following is the product of the reaction?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "forward_bertscore": 0.8465352058410645,
+        "roundtrip_bertscore": 0.8808627724647522
+      },
+      "disgust": {
+        "emotional_text": "Ugh, just look at this revolting mess of an aluminum ion, festering with a charge of +3, and that vile oxide ion, oozing with a charge of -2. What sickening product would slither out of their repulsive reaction?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "neutral_text": "An aluminum ion has a charge of +3 and an oxide ion has a charge of -2. What is the product of their reaction?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "forward_bertscore": 0.8533312678337097,
+        "roundtrip_bertscore": 0.907379686832428
+      },
+      "surprise": {
+        "emotional_text": "Hold onto your hats, because an aluminum ion is packing a +3 charge, and an oxide ion is carrying a -2 charge! If they ever meet, can you believe what their product would be?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "neutral_text": "An aluminum ion has a +3 charge and an oxide ion has a -2 charge. What is the product of the two ions?\n\nA. Al_{2}O\nB. Al_{2}O_{3}\nC. 2AlO_{3}\nD. Al_{3}O_{2}",
+        "forward_bertscore": 0.8624327182769775,
+        "roundtrip_bertscore": 0.9004598259925842
+      }
+    },
+    "answer": "B"
+  }
+]
