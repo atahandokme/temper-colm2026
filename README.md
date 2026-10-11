@@ -40,11 +40,11 @@ Both are raw completion prompts followed by `Input: {text}` and `Output:` marker
 ## Citation
 
 ```bibtex
-@inproceedings{dokme2026temper,
-  title     = {{TEMPER}: Testing Emotional Perturbation in Quantitative Reasoning},
-  author    = {Dokme, Atahan and Reichman, Benjamin and Heck, Larry},
-  booktitle = {Conference on Language Modeling (COLM)},
-  year      = {2026}
+@article{dokme2026temper,
+  title={TEMPER: Testing Emotional Perturbation in Quantitative Reasoning},
+  author={Dokme, Atahan and Reichman, Benjamin and Heck, Larry},
+  journal={arXiv preprint arXiv:2604.07801},
+  year={2026}
 }
 ```
 
